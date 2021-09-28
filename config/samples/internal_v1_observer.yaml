@@ -1,0 +1,7 @@
+apiVersion: internal.automatedmonkey.life/v1
+kind: Observer
+metadata:
+  name: observer-sample
+spec:
+  # Add fields here
+  foo: bar
